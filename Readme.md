@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranit Sen</h1>
 <h3 align="center">Data Sience and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranit-collab&label=Profile%20views&color=0e75b6&style=flat" alt="ranit-collab" /> </p>
-
 - 🌱 I’m currently learning **NLP, Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning projects**
