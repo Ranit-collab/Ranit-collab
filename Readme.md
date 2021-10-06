@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranit Sen</h1>
 <h3 align="center">Data Sience and Machine Learning</h3>
 
-<p><img align="right"src="https://dribbble.com/shots/14562867-Techy" width="400" height="250" /> <p>
+<p><img align="right"src="https://dribbble.com/shots/14562867-Techy?utm_source=Clipboard_Shot&utm_campaign=akioskari&utm_content=Techy&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=akioskari&utm_content=Techy&utm_medium=Social_Share" width="400" height="250" /> <p>
 - 🌱 I’m currently learning **NLP, Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning projects**
