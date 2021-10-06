@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranit Sen</h1>
-<h3 align="center">Data Sience and Machine Learning</h3>
+<h3 align="center">Data Sience and Machine Learning Enthusiast</h3>
 
 <p><img align="right"src="https://dribbble.com/shots/14562867-Techy/attachments/6252312?mode=media" width="400" height="250" /> <p>
 - 🌱 I’m currently learning **NLP, Deep Learning**
